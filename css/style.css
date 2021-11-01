@@ -52,5 +52,16 @@ header{
  .social-nav i{
      color: gray;
  }
+#suits img:hover{
+   
+        transform: scale(1.2)
+ }
+ #belts img:hover{
+    transform: rotate(180deg);
+ }
+  #socks img:hover{
+      transform: scale(1.2)
+  }
+
  
 
