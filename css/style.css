@@ -1,0 +1,56 @@
+
+body{
+    font-family:"serif";
+}
+
+
+.navbar{
+    
+    background-color:#DDDDDD;
+    border-bottom: solid 5px #DDDDDD;
+}
+
+
+header{
+    min-height: 100vh;
+    background-image: linear-gradient(rgba(0, 0, 0,.7),rgba(0, 0, 0,.7)),url(../images/cover2.jpeg);
+    background-position: center;
+    background-size: cover;
+    
+}
+  
+#suits .ner{
+    margin-right: 100px;
+    
+}
+
+#belts img{
+    width: 444px;
+    height: 492px;
+
+}
+
+#belts .belt{
+     
+    margin-right: 100px;
+
+
+}
+#socks img{
+    width: 444px;
+    height: 600px;
+} 
+
+#socks .sock{
+    margin-right: 100px;
+}
+
+#letters .eml{
+    margin-left: 130px;
+}
+
+ .social-nav i{
+     color: gray;
+ }
+ 
+
